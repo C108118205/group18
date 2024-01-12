@@ -40,12 +40,42 @@
 ![image](https://github.com/C108118205/group18/blob/main/%E5%8A%9F%E8%83%BD%E5%88%86%E8%A7%A3%E5%9C%96.png)
 
 ## 需求分析的文字描述
-1.讓用戶能夠為旅行目的地添加標籤，例如"浪漫"、"歷史"、"美食"等，以便更好地個性化推薦。
-2.根據用戶的偏好和過去的旅行歷史，提供個性化的旅遊建議。
-3.保持旅遊信息的實時性，包括天氣、活動、交通等，確保用戶得到最新的建議。
-4.整合地圖功能，使用戶能夠輕鬆查看目的地附近的景點、餐廳、交通等信息。
-5.允許用戶與朋友分享他們的旅行計劃，並從社交網絡中獲取建議。
+### 1.讓用戶能夠為旅行目的地添加標籤，例如"浪漫"、"歷史"、"美食"等，以便更好地個性化推薦。
+### 2.根據用戶的偏好和過去的旅行歷史，提供個性化的旅遊建議。
+### 3.保持旅遊信息的實時性，包括天氣、活動、交通等，確保用戶得到最新的建議。
+### 4.整合地圖功能，使用戶能夠輕鬆查看目的地附近的景點、餐廳、交通等信息。
+### 5.允許用戶與朋友分享他們的旅行計劃，並從社交網絡中獲取建議。
 
 ## 使用案例圖
 
 ![image](https://github.com/C108118205/group18/blob/main/%E4%BD%BF%E7%94%A8%E6%A1%88%E4%BE%8B%E5%9C%96.png)
+
+## 使用案例說明
+
+![image](https://github.com/C108118205/group18/blob/main/%E4%BD%BF%E7%94%A8%E6%A1%88%E4%BE%8B%E8%AA%AA%E6%98%8E.png)
+
+## 系統環境圖
+
+![image](https://github.com/C108118205/group18/blob/main/%E7%B3%BB%E7%B5%B1%E7%92%B0%E5%A2%83%E5%9C%96.png)
+
+## DFD 圖0
+
+![image](https://github.com/C108118205/group18/blob/main/DFD%20%E5%9C%960.png)
+
+## UML圖
+
+![image](https://github.com/C108118205/group18/blob/main/UML.png)
+
+## 循序圖與活動圖
+### 案例一
+
+![image](https://github.com/C108118205/group18/blob/main/%E6%A8%99%E7%B1%A4%E5%BE%AA%E5%BA%8F.png)
+![image](https://github.com/C108118205/group18/blob/main/%E6%A8%99%E7%B1%A4%E6%B4%BB%E5%8B%95.png)
+### 案例二
+
+![image](https://github.com/C108118205/group18/blob/main/%E5%9C%B0%E5%9C%96%E5%BE%AA%E5%BA%8F.png)
+![image](https://github.com/C108118205/group18/blob/main/%E5%9C%B0%E5%9C%96%E6%B4%BB%E5%8B%95.png)
+
+## 分鏡圖
+
+![image](https://github.com/C108118205/group18/blob/main/%E5%88%86%E9%8F%A1%E5%9C%96.png)
